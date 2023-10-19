@@ -4,4 +4,8 @@ body{ font-size: 20px;}
 .principal{text-align: center;
 background-color: gray}
 .alinhar{text-align: center;}
-.imagem_beneficios{width: 100%;}
+.imagem_beneficios{width: 50%;}
+.titulo.principal{padding-left: 20px;}
+.lista{display: inline-block;vertical-align: top;
+    margin-right: 15%;
+}
